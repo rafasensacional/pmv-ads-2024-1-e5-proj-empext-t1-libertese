@@ -26,12 +26,17 @@ Desenvolver um software que seja capaz de criar uma imagem de marca forte e coer
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A escolha de trabalhar com o desenvolvimento de um software para criar uma imagem de marca forte e coerente para a Libertees, bem como promover o desenvolvimento de produtos responsáveis e sustentáveis, é motivada por diversas razões:
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+- Impacto Social e Ambiental: A Libertees é um negócio social de moda que tem como objetivo não apenas gerar lucro, mas também criar impacto social e ambiental positivo. Desenvolver um software que promova sua imagem de marca e ajude a impulsionar o desenvolvimento de produtos sustentáveis contribui para esse propósito, alinhando-se com valores de responsabilidade social e ambiental.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+- Atendimento à Demanda do Mercado: Cada vez mais, os consumidores estão buscando marcas que não apenas ofereçam produtos de qualidade, mas também sejam transparentes em relação aos seus processos de produção e tenham um compromisso com a sustentabilidade. Ao criar uma imagem de marca forte e coerente, a Libertees pode atrair um público mais consciente e alinhado com seus valores, o que pode resultar em aumento de vendas e fidelização de clientes.
+
+- Diferenciação Competitiva: No mercado da moda, onde a concorrência é acirrada, ter uma identidade visual única e uma proposta de valor clara é essencial para se destacar. O desenvolvimento de um software que ajude a criar uma imagem de marca forte e coerente pode ser uma vantagem competitiva significativa para a Libertees, diferenciando-a de outras marcas e atraindo a atenção do público-alvo.
+
+- Eficiência e Escalabilidade: Automatizar o processo de criação de uma identidade visual e o desenvolvimento de produtos sustentáveis através de um software pode aumentar a eficiência operacional da Libertees, permitindo que ela atenda a uma demanda crescente sem comprometer seus princípios éticos e sustentáveis.
+
+Para embasar nossa abordagem e direcionar o desenvolvimento do software, podemos utilizar questionários e entrevistas com stakeholders da Libertees, como fundadores e potenciais clientes. Além disso, dados estatísticos sobre tendências de consumo e preferências do mercado de moda podem fornecer insights valiosos para a definição de objetivos específicos e estratégias de implementação do software.
 
 ## Relação com a Extensão Universitária
 
