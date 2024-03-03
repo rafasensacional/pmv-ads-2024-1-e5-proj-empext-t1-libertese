@@ -21,7 +21,7 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 Desenvolver um software que seja capaz de criar uma imagem de marca forte e coerente para a Libertees, comunicando seu novo momento e fortalecendo seu posicionamento como referência em negócio social de moda, além de promover o desenvolvimento de produtos com propósito responsável e sustentável com apelo comercial.
 
 ### Objetivos Específicos
-- Desenvolver ferramentas de design e branding que permitam criar uma identidade visual que represente adequadamente os valores e objetivos da Libertees como um negócio social de moda.
+- Desenvolver ferramentas que permitam criar uma identidade visual que represente adequadamente os valores e objetivos da Libertees como um negócio social de moda.
 - Integrar funcionalidades que facilitem o desenvolvimento de produtos com propósito responsável e sustentável, considerando aspectos como materiais utilizados, processos de fabricação e impacto ambiental, ao mesmo tempo em que garantam seu apelo comercial.
 
 ## Justificativa
