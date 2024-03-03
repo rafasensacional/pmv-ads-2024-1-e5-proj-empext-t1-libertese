@@ -16,12 +16,13 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+### Objetivo Geral
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Desenvolver um software que seja capaz de criar uma imagem de marca forte e coerente para a Libertees, comunicando seu novo momento e fortalecendo seu posicionamento como referência em negócio social de moda, além de promover o desenvolvimento de produtos com propósito responsável e sustentável com apelo comercial.
+
+### Objetivos Específicos
+> - Desenvolver ferramentas de design e branding que permitam criar uma identidade visual que represente adequadamente os valores e objetivos da Libertees como um negócio social de moda.
+> - Integrar funcionalidades que facilitem o desenvolvimento de produtos com propósito responsável e sustentável, considerando aspectos como materiais utilizados, processos de fabricação e impacto ambiental, ao mesmo tempo em que garantam seu apelo comercial.
 
 ## Justificativa
 
