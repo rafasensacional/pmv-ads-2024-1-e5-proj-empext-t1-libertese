@@ -40,7 +40,19 @@ Para embasar nossa abordagem e direcionar o desenvolvimento do software, podemos
 
 ## Relação com a Extensão Universitária
 
-Relacionar a situação-problema da organização com o impacto social esperado com a implantação do sistema sociotécnico.
+A relação entre a situação-problema da Libertees e o impacto social esperado com a implantação do sistema sociotécnico pode ser abordada considerando os princípios da Extensão Universitária da PUC Minas. A Extensão Universitária é uma atividade acadêmica que visa promover a interação entre a universidade e a sociedade, contribuindo para a resolução de problemas reais e para o desenvolvimento sustentável das comunidades.
+
+No contexto da Libertees, a situação-problema está relacionada à necessidade de fortalecer sua imagem de marca e promover o desenvolvimento de produtos responsáveis e sustentáveis com apelo comercial. A implantação do sistema sociotécnico, ou seja, o software desenvolvido para criar uma identidade visual forte e coerente, bem como facilitar o desenvolvimento de produtos sustentáveis, pode ter diversos impactos sociais positivos:
+
+- Capacitação e Empoderamento: Ao integrar ferramentas de design e branding no software, a equipe da Libertees pode ser capacitada para criar uma identidade visual que reflita os valores da empresa e sua missão de negócio social. Isso promove o empoderamento dos colaboradores ao permitir que expressem sua criatividade de maneira alinhada com os propósitos da organização.
+
+- Educação para a Sustentabilidade: A inclusão de funcionalidades que facilitem o desenvolvimento de produtos responsáveis e sustentáveis no software pode servir como uma ferramenta educacional para conscientizar os colaboradores e os clientes sobre práticas sustentáveis na indústria da moda. Isso contribui para a disseminação de conhecimento e para a adoção de comportamentos mais conscientes em relação ao consumo.
+
+- Geração de Emprego e Renda: O fortalecimento da imagem de marca da Libertees e o aumento das vendas de produtos sustentáveis podem resultar em maior demanda por seus produtos, o que pode levar à expansão dos negócios e à criação de novos empregos na comunidade local. Isso contribui para o desenvolvimento econômico e social da região onde a empresa está inserida.
+
+- Inspirar Outras Iniciativas: O sucesso da Libertees ao implementar um sistema sociotécnico que promove a sustentabilidade na indústria da moda pode inspirar outras empresas e empreendedores a adotarem práticas semelhantes. Isso cria um efeito multiplicador que amplia o impacto social positivo na sociedade como um todo.
+
+Portanto, a implantação do sistema sociotécnico na Libertees não apenas soluciona problemas específicos da organização, mas também contribui para a promoção do desenvolvimento social e sustentável, alinhando-se com os objetivos da Extensão Universitária da PUC Minas de servir à comunidade e promover o bem-estar social.
 
 ## Descrição do Parceiro
 
