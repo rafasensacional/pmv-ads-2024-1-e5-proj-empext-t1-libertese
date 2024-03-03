@@ -39,3 +39,9 @@ Relacionar a situação-problema da organização com o impacto social esperado 
 ## Descrição do Parceiro
 
 Apresente uma descrição resumida sobre a organização onde o projeto será desenvolvido para que possa ser compreendido o cenário sistema sociotécnico.
+
+
+
+
+
+
